@@ -1,11 +1,11 @@
 # Hey there 👋 I'm Yinx
 
-🎓 Final-year Engineering student | 🌍 Nigeria  
-🔨 Building for the web — one project at a time  
-🌱 Working with **Html, CSS, Tailwind CSS, JavaScript & React** 
-🎮 Aspiring game developer
-💬 Open to **freelance projects** & **collabs**  
-📫 Reach me through my socials, thank you.
+🎓 Final-year Engineering student | 🌍 Nigeria <br/>
+🔨 Building for the web — one project at a time  <br/>
+🌱 Working with **Html, CSS, Tailwind CSS, JavaScript & React** <br/>
+🎮 Aspiring game developer<br/>
+💬 Open to **freelance projects** & **collabs**  <br/>
+📫 Reach me through my socials, thank you.<br/>
 
 ---
 
