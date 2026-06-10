@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Yinx 👋
 
-<!--
-**Yinx-OG/Yinx-OG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Engineering student who builds things for the web.
+I work with **HTML, CSS, Tailiwind, JavaScript & React** — clean layouts, real projects, no fluff.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I've Built
+- 🏨 [Hotel de l'Aurelia](https://yinx-hotel-de-l-aurelia-website.vercel.app/) — Multi-page hotel website
+- 🛍️ [Yinx E-Gadgets](https://yinx-e-gadgets-website.vercel.app/) — Product landing page
+
+---
+
+### 🤝 Open To
+- Freelance web projects
+- Collabs with other developers
+- Building something cool together
+
+---
+
+### 📬 Reach Me
+Got a project in mind? Let's talk — **----------**
